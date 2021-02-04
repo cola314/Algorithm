@@ -1,0 +1,1 @@
+exec(int(input())*"print(int(input())*'=')\n")
